@@ -7,4 +7,3 @@ struct Node
 	Node* next;
 	Node* random;
 };
-
